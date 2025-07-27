@@ -1,4 +1,4 @@
--- AdvanceFalling Team
+-- Zeinon Hub Script (ARSNL)
 
 -- ALSO im sorry if this arsenal script have messy codes in it, I will try to make it organized in the future if im not lazy. 
 
@@ -14,7 +14,7 @@
 
 
 --[[
-TODO:
+Update:
  - add aimbot
  - need new esp library
  - other stuff i need to add but forgotten
