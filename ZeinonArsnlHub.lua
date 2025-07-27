@@ -23,14 +23,14 @@ TODO:
 
 local CoreGui = game:GetService("StarterGui")
 CoreGui:SetCore("SendNotification", {
-  Title = "AdvanceTech Arsenal",
+  Title = "Game Its Supported",
   Text = "Working For Mobile and PC Executor",
   Duration = 8,
 })
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
-  Title = "Maded By:",
-  Text = "AdvancedFalling Team",
+  Title = "Maded By Faheem",
+  Text = "Checking Game/Load Gui...",
   Icon = "rbxthumb://type=Asset&id=13508183954&w=150&h=150",
   Duration = 8,
 })
@@ -55,10 +55,10 @@ game:GetService("RunService").Heartbeat:connect(function(step)if flying and c an
 
 
 local Library    = loadstring(game:HttpGet("https://raw.githubusercontent.com/bitef4/Recode/main/UI/Kavo_1.lua"))()
-local Window     = Library.CreateLib("AdvanceTech | Arsenal | v1.9", "BlueTheme")
+local Window     = Library.CreateLib("Zeinon Hub| Arsenal | v1.9", "BlueTheme")
 
 local Welcome     = Window:NewTab("Main")
-local MainSection = Welcome:NewSection("Welcome To AdvanceTech | " .. game.Players.LocalPlayer.Name)
+local MainSection = Welcome:NewSection("Welcome To Zeinon Hub | " .. game.Players.LocalPlayer.Name)
 local HitboxSection = Welcome:NewSection("> Hitbox Settings <")
 --[[
 local SilentTab   = Welcome:NewSection("> Silent Aim <")
